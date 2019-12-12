@@ -19,7 +19,7 @@ Phase B, reponsilbe for allocationg resources, is written in **Python** and is t
 
 # Contribute
 
-Contributions are welcome, the process is simple as cloning, making changes and submitting a pull request
+Contributions are welcome, the process is as simple as cloning, making changes and submitting a pull request
 
 # Citing this work
 
