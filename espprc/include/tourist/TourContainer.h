@@ -5,6 +5,7 @@
 #include <vector>
 
 #include "tourist/TourContainer.h"
+#include "tourist/Tour.h"
 
 using namespace std;
 
