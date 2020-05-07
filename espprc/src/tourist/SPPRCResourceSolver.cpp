@@ -1,4 +1,3 @@
-/*
 #include "tourist/SPPRCResourceSolver.h"
 
 #include <algorithm>
@@ -420,4 +419,3 @@ poic->GetTimeBetweenPOIs(i, j, "walking"), k), g);
         }
 
         return new_s;
- */
